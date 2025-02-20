@@ -4,6 +4,7 @@ This repository contains my achievements and badges from TryHackMe. Feel free to
 This is the TryHackMe (THM) badge, and it’s designed to reflect my progress and achievements on the platform:
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4016372" style='border:none;'></iframe>
 
+Knowledge on Metasploit           https://assets.tryhackme.com/room-badges/3e9d81437c2f0a340c5f1ab3d2a624c6.png
 Hash Cracker:                     https://assets.tryhackme.com/room-badges/6e7a4e81016caf8ca11da0bfcfe13715.png
 Network Fundamentals:             https://assets.tryhackme.com/room-badges/0db657e4e45eeb92884d83ea038f5a8c.png
 How World Web Works:              https://assets.tryhackme.com/room-badges/de4ff5725836b8d16c3f67bb46cab721.png
