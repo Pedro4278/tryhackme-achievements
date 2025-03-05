@@ -4,8 +4,9 @@ This repository contains my achievements and badges from TryHackMe. Feel free to
 This is the TryHackMe (THM) badge, and it’s designed to reflect my progress and achievements on the platform:
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4016372" style='border:none;'></iframe>
 
-Those are my achivements:
+Achivements:
 
+Sword Apprentiance (SQLMap room)           https://tryhackme.com/PRibeiro/badges/swordapprenticebadge
 Understanding every OWASP vulnerability:   https://tryhackme.com/PRibeiro/badges/owasp-10
 Windows Exploitation                       https://assets.tryhackme.com/room-badges/ba48a13c0778223c76b1941cddb967c5.png
 Knowledge on Metasploit                    https://assets.tryhackme.com/room-badges/3e9d81437c2f0a340c5f1ab3d2a624c6.png
