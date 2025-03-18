@@ -6,6 +6,8 @@ This is the TryHackMe (THM) badge, and it’s designed to reflect my progress an
 
 Achivements:
 
+                                           
+FlareVM the basics                         https://assets.tryhackme.com/room-badges/394019a92f4954eaa608d57d5bbd5311.png
 Sword Apprentiance (SQLMap room)           https://tryhackme.com/PRibeiro/badges/swordapprenticebadge
 Understanding every OWASP vulnerability:   https://tryhackme.com/PRibeiro/badges/owasp-10
 Windows Exploitation                       https://assets.tryhackme.com/room-badges/ba48a13c0778223c76b1941cddb967c5.png
