@@ -6,7 +6,7 @@ This is the TryHackMe (THM) badge, and it’s designed to reflect my progress an
 
 Achivements:
 
-                                           
+Finishing the Eviction challenge           https://tryhackme.com/PRibeiro/badges/skilled-navigator          
 FlareVM the basics                         https://assets.tryhackme.com/room-badges/394019a92f4954eaa608d57d5bbd5311.png
 Sword Apprentiance (SQLMap room)           https://tryhackme.com/PRibeiro/badges/swordapprenticebadge
 Understanding every OWASP vulnerability:   https://tryhackme.com/PRibeiro/badges/owasp-10
